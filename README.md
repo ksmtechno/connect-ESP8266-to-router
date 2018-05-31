@@ -5,8 +5,8 @@
 	first it need to be upload in esp8266 (tested on ESP01 and ESP12e) and than upload the data folder .
 	in the data folder we have the index file and the json file, (i have use the json file to save the status of my led .)
 	than the esp8266 will create  hotspot named "yoyo" and passord (323taay053). after connecting it , visit (192.168.4.1)
-	with any browser, than we will get this page <br>
-	<div><img src="img1.PNG" alt="first page" width="200" height="400"></div>
+	with any browser, than we will get this page 
+
 
 	click on the wifi icon than you will get a input bar for SSID and passowrd .
 
